@@ -1,0 +1,1 @@
+// document.getElementsByClassName("button").item(0).style.cssText = "color: blue; border: 1px solid red";
